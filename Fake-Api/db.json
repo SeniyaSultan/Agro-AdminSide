@@ -1,0 +1,29 @@
+{
+  "FarmerPropertyTable": [
+    {
+      "ID": 2,
+      "Name": "Jane Smith",
+      "PhoneNumber": "987654321",
+      "LandLocation": "Village B",
+      "LandOccupationHectares": 10,
+      "EmailAddress": "jane@example.com",
+      "id": "364a"
+    },
+    {
+      "id": "8b71",
+      "Name": "Jane Smith",
+      "PhoneNumber": "987654321",
+      "LandLocation": "Village B",
+      "LandOccupationHectares": 10,
+      "EmailAddress": "jane@example.com"
+    },
+    {
+      "id": "0d4e",
+      "Name": "std",
+      "PhoneNumber": "123",
+      "LandLocation": "cdc",
+      "LandOccupationHectares": 7,
+      "EmailAddress": "seniya5sultan@gmail.com"
+    }
+  ]
+}
